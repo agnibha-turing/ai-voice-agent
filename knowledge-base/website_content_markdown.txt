@@ -1,0 +1,227 @@
+# Turing.com: Your Partner in Tech Innovation
+
+## Our Offerings
+
+Turing provides two main services to help businesses accelerate their technology initiatives:
+
+1. **Hiring Pre-Vetted Software Developers**
+2. **Executing Managed Projects**
+
+---
+
+## 1. Hiring Pre-Vetted Software Developers
+
+### Tired of Traditional Recruiting to Hire Software Developers?
+
+**Hire senior pre-vetted remote developers with strong technical and communication skills at unbeatable prices, ready to work in your timezone.**
+
+[Hire Now](#)
+
+*Looking for jobs instead? [Apply for jobs at our developer portal](https://developers.turing.com?utm_placement=ai_chatbot).*
+
+*If you are a developer looking for support, reach out to our team at [support@turing.com](mailto:support@turing.com) and they will get back to you promptly.*
+
+---
+
+### Join 900+ Companies Who Have Trusted Turing for Their Remote Engineering Needs
+
+- **High Quality/Cost Ratio**
+
+  Hire developers with various skills at half the cost.
+
+- **Hire Deeply Vetted Developers at Half the Cost**
+
+  Hire the top 1% of over 2 million developers from 150+ countries who have applied to Turing.
+
+- **100+ Skills Available**
+
+  Hire experts in React, Node, Python, Angular, Swift, React Native, Android, Java, Rails, Golang, DevOps, ML, Data Engineering, and more.
+
+- **Zero Risk**
+
+  If you decide to stop within two weeks, you pay nothing.
+
+---
+
+### Rigorous Vetting Process
+
+**Hire developers who have been rigorously vetted**
+
+- **5+ Hours of Tests and Interviews**
+
+  More rigorous than Silicon Valley job interviews. We test for 100+ skills, data structures, algorithms, systems design, software specializations, and frameworks.
+
+- **Seniority Tests**
+
+  We select excellent communicators who can proactively take ownership of business and product objectives without micromanagement.
+
+---
+
+### Effective Collaboration
+
+**Easily engage remote developers with daily updates and time tracking**
+
+- **Daily Updates**
+
+  Turing's Workspace gives you even more visibility into your remote developer's work with automatic time tracking and virtual daily stand-ups.
+
+- **Easy Administration**
+
+  High visibility makes Turing developers easy to engage and ensures their work aligns with what's valuable to you.
+
+- **Match Your Timezone**
+
+  Our developers match your time zone and overlap a minimum of 4 hours with your workday.
+
+---
+
+### Trusted by 900+ Fortune 500 Companies and Fast-Scaling Startups
+
+**Top Clients Review Turing**
+
+Turing has helped 900+ Fortune 500 companies and fast-scaling startups hire pre-vetted developers on demand. Here's what they have to say about us:
+
+> **"Turing has been providing us with top software developers in Latin America. All our other vendors combined don't have the headcount that Turing does."**  
+> — *Program Manager of one of the world's largest crypto exchange platforms*
+
+> **"We hired about 16 ML engineers from Turing which reduced our hiring effort by 90% as compared to other vendors."**  
+> — *Engineering Manager of a NYSE-listed, Fortune 500 healthcare company*
+
+> **"We're super excited about Turing as we will scrap our existing lengthy interview process and lean on Turing's vetting to build up teams on-demand."**  
+> — *Director of Engineering of a US-based, multimillion-dollar finance company*
+
+> **"Turing has been a valuable partner in helping us grow our team. We use Turing because it helps us quickly find great talent globally in the ultra-competitive market climate."**  
+> — *HR Manager of a multimillion-dollar software solution provider*
+
+[Build Your Dream Team Now](#)
+
+---
+
+### Turing Deep Developer Profile
+
+Our in-depth resumes help you know your next developers better. Explore their strengths and weaknesses with our Deep Developer Profiles and decide if they are a good fit for your team.
+
+---
+
+## 2. Executing Managed Projects
+
+### The World's Best Engineering Team for Your Project, Vetted by AI
+
+**Your software engineering challenges. Turing's modern development methodology. An intelligent solution, every time.**
+
+---
+
+### Intelligent Innovation Led by Industry Experts
+
+Customized strategy and execution, led by our internal industry experts and built by our deep-vetting global talent platform. Trusted by 900+ companies, including:
+
+- **Over 125 Years of Combined Experience**
+
+  Building world-class tech solutions at leading companies including:
+
+  - Google
+  - Meta
+  - Microsoft
+  - LinkedIn
+  - Turing
+  - Accenture
+  - Wipro
+  - Capgemini
+  - Cognizant
+  - IBM
+
+- **Over 3 Million Hours of Services Work Delivered**
+
+  For clients across several industries including:
+
+  - Financial Services
+  - Healthcare
+  - Automotive
+  - Retail
+  - Technology
+
+---
+
+### A Better Way to Imagine, Deliver, and Run Your Technology Solutions
+
+**A comprehensive and customized method that suits your needs.**
+
+With our **IDR (Imagine, Deliver, Run)** framework, you get exactly what's best for your business, not our bottom line.
+
+1. **Imagine**: Your goals and challenges, transformed into actionable planning and strategy.
+2. **Deliver**: White-glove development from the best AI-matched developers from our Talent Cloud.
+3. **Run**: We'll handle the ongoing maintenance and support for as long as you need.
+
+---
+
+### Turing's AI, Cloud, and Application Engineering Services
+
+#### 1. [Turing AI Services](https://www.turing.com/services/ai?utm_placement=ai_chatbot)
+
+- **Unlock the Power of AI and ML for Your Operations**
+
+  Turing's AI services aim to help businesses harness AI and ML for their operations. Our experts have mastered AI/ML development and implementation for top tech companies.
+
+- **Convert Data into Business Value**
+
+  We deploy AI technologies around Natural Language Processing (NLP), computer vision, and text processing. Our clients have realized significant value in supply chain management, pricing, product bundling and development, personalization, and recommendations.
+
+- **Developed AI Solutions for Our Own Operations**
+
+  Including automated technical proficiency assessments, successful job candidate identification, lead scoring, supply and demand forecasting, and marketing spend optimization. Our custom search and recommendation algorithms leverage both Large Language Models (LLM) and NLP technologies.
+
+- **AI Implementation Strategy Services**
+
+  Creating a custom AI strategy roadmap, proof of concepts, scalable AI infrastructure, and production-grade AI solution deployment. We use a unique model methodology to maximize value realization for your AI solution.
+
+- **AI Transformation Accelerator**
+
+  A 4-week time-boxed engagement to investigate and evaluate the potential impact of AI for your organization. Quickly identify viable solutions for your use cases and limit your investment risk by leveraging Turing's established framework. This allows your AI transformation to occur in just 30 days.
+
+---
+
+#### 2. [Turing Cloud Services](https://www.turing.com/services/cloud?utm_placement=ai_chatbot)
+
+- **Hyper-Agile Performance and Resilience**
+
+  Turing's Cloud Services help businesses with cloud adoption or migration, providing hyper-agile performance and resilience.
+
+- **Navigate Your Cloud Journey**
+
+  We've helped over 100 companies navigate their cloud journey, whether it's cloud readiness, migration, or application transformation. We leverage our cloud experience and expertise to successfully reach business goals.
+
+- **Comprehensive Cloud Solutions**
+
+  Our services cover data analytics, Software-as-a-Service (SaaS), microservices, and more, helping companies rapidly deploy custom cloud solutions with an emphasis on security and governance.
+
+- **Cloud Strategy & Readiness Services**
+
+  Includes a comprehensive assessment of your current IT infrastructure, a business case post-assessment, and a defined deployment roadmap using best practices from our experience with leading Fortune 500 companies.
+
+---
+
+#### 3. [Turing Application Engineering Services](https://www.turing.com/services/application-engineering?utm_placement=ai_chatbot)
+
+- **Transform Your Business with Modern Applications**
+
+  Turing's Application Engineering Services provide modern, world-class applications that can transform businesses.
+
+- **Enhance Your Applications**
+
+  We've helped over 100 companies elevate their applications, whether it's application portfolio rationalization, modernization, or development. We use our application engineering experience and expertise to successfully reach business goals.
+
+- **Rapid Deployment with Reduced Complexity**
+
+  Our services cover application analysis, prototyping, testing, and more, helping companies rapidly deploy application solutions with reduced complexity and enhanced user experience.
+
+- **Application Portfolio Rationalization Services**
+
+  Includes a comprehensive assessment of your current application landscape, prioritization of applications, identification of opportunities to retire or consolidate them, and development of a roadmap for implementing the recommended changes.
+
+---
+
+# Build Your Future with Turing
+
+Whether you're looking to hire top-tier developers or execute cutting-edge managed projects, Turing is here to help you achieve your technology goals with excellence and efficiency.
+
+[Contact Us Today](#)

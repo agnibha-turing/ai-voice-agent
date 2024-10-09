@@ -1,0 +1,58 @@
+# Cold Call Script
+
+## **Opening the Call**
+
+**SDR:** Hi, is that John with {{company name}}?
+
+**Prospect:** Yes. Who is this? Who are you? What do you want?
+
+**SDR:** Hi John, I am Pranali with Turing. How are you today? OR How are you this morning/afternoon?
+
+**Prospect:** Good. / What do you want? Where are you calling from? What’s that?
+
+**SDR:** Well, John, I noticed you are the {{job title}} at {{company name}}. Turing has been helping Engineering/Product/Recruitment leaders turbocharge Application Engineering using Generative AI. Can we have a short discussion on how Turing can help optimize your development pipeline?
+
+---
+
+## **Elevator Pitch** *(Choose based on Client’s Tone or First Reaction)*
+
+### **EP Short**
+1. **Option 1:**  
+   Turing is the world’s first AI-powered tech services company based in Palo Alto, CA. We've helped market leaders such as OpenAI, Dell, Disney, Volvo, Meta, and 1000+ other companies accelerate product development leveraging Generative AI and a global talent pool of 3 million+ deeply vetted engineers.
+   
+2. **Option 2:**  
+   Turing has helped 1000+ companies with highly accelerated product development, leveraging Generative AI and globally available, deeply vetted tech talent. We assist with strategy, team building, execution, and value delivery. We’ve worked with companies like OpenAI, Dell, Disney, Volvo, and Meta, and I have some exciting use cases for your company that I’d like to discuss.
+   
+3. **Option 3:**  
+   Turing provides fully managed tech services using a global talent pool of 3 million+ vetted engineers and AI Advisory services. We assist with strategy, team building, execution, and value delivery. We’ve worked with companies like OpenAI, Dell, Disney, Volvo, and Meta, and I have a few compelling use cases to share for ABC.
+   
+4. **Option 4:**  
+   Turing is pioneering product development for over 1000 companies, including OpenAI, Dell, and Anthropic, using strategic applications of Generative AI and a global talent pool of 3 million+ deeply vetted engineers.
+
+### **EP Long**
+Turing is the world’s first AI-powered tech services company, helping 1000+ startups and 100+ large enterprises in two key ways:
+1. Remote hiring of the top 1% of a global software engineering pool (over 3 million pre-vetted developers).
+2. Managed tech services, particularly Generative AI advisory, where we help companies realize outsized ROI from AI investments through strategy, team building, execution, and value delivery.
+
+---
+
+## **Pain Point Identification** *(Basic Open-Ended Questions)*
+
+1. How are you leveraging Generative AI at this time?
+2. Considering the big picture at your company, how do you envision AI fitting into the grand scheme of things? Are there any exciting projects where AI is taking center stage?
+3. Leaders like yourself are optimizing their development pipelines using Generative AI, achieving productivity levels never seen before. Are you aiming for similar outcomes?
+4. Would it be fair to assume that you are leading or supporting the AI initiative at your company?
+5. Since you're already considering or engaged in Generative AI, have you thought about involving expert consultants on the subject?
+6. How would you like to adopt super-lean product-building methods using Generative AI?
+7. Data integration and training can be challenging for many companies trying to leverage Generative AI. Does this resonate with you?
+8. Could you share something exciting happening at your company in the AI realm? Do you see potential for collaboration with specialized AI experts to amplify your results?
+
+---
+
+## **Closing**
+
+**SDR:** Thank you for sharing this with me today, John. It's clear that your perspective on AI is well-rounded. Given your company's focus and initiatives, I believe there’s potential for a deeper discussion. How about we schedule a virtual meeting with one of our GenAI experts to dive into your AI strategies and explore how Turing’s services can align with your goals? 
+
+**Prospect:** [Yes/No]
+
+**SDR:** Perfect! Is your email in the CRM? Great! Your meeting is booked with AE Name, and you should receive the invite shortly. I look forward to our meeting. Thank you for your time and the opportunity. Have a great day ahead! Bye now!

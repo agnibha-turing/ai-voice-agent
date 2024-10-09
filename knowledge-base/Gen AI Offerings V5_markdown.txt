@@ -1,0 +1,313 @@
+# Gen AI from Turing
+
+## Our Mission
+
+To accelerate AGI advancement and deployment.
+
+---
+
+## Human and AGI
+
+- **Humans make AI better**
+- **AI makes humans better**
+
+---
+
+## The AI Revolution
+
+- Every company is now an AI company
+- Every business process is more efficient with AI
+- Every product is enhanced by AI
+- Every customer wants to be delighted in new ways
+
+---
+
+## Challenges in AI Transformation
+
+- Identify areas where AI will provide the most business impact
+- Build the right data foundation to support AI
+- Obtain the expertise to deploy AI with the right guardrails
+
+**But with AI Transformation, it’s hard to:**
+
+- And it’s equally hard to find one partner that can manage the process end-to-end
+
+---
+
+## This is Why We Built Turing
+
+1. **Advise**
+2. **Build**
+3. **Deploy**
+
+---
+
+## Turing's Expertise
+
+- **Direct Partnerships**: Turing partners directly with OpenAI, Anthropic, Google, etc., to build their models. We have deep expertise in what these models are capable of today and where they will be in 6 months.
+- **Global Talent Network**: We have a global network of software developers, alongside a team of in-house AI experts from Google, Meta, Microsoft, LinkedIn, and Amazon, and GTM leaders from tech consulting.
+- **Our Capabilities**:
+  - Personalized recommendations
+  - User acquisition and onboarding
+  - Recommendation engines
+  - Amplifying sales, marketing, and software engineering productivity
+- **Our Contributions**:
+  - We help foundation model companies train LLMs
+  - We've built AI products for our own use
+  - We have AI experts and developers
+
+---
+
+## Trusted by Over 1,000 Companies
+
+Including the world’s leading foundation model companies.
+
+---
+
+> **"This has got to be the best time to be an engineer in a very long time. It's truly a new frontier, a new way of working; and those don't come around often."**  
+> — *Sam Altman, CEO*
+
+---
+
+## Turing’s Approach for GenAI
+
+### Potentially Outsized Business Value
+
+- **Generative AI excels** in solving problems with superior (and growing) reliability and quality.
+- **Low effort for experimentation and implementation**.
+- **Span of influence is growing**.
+
+**Realize value** with Turing's value framework for use cases.
+
+---
+
+## Value Discovery vs. Value Realization with Generative AI
+
+### Value Discovery
+
+- **Test high-value business use cases**
+- **Make minimal investments** to test business value (build "MVP")
+
+### Value Realization
+
+- **Develop systems** for throughput, latency, cost, and privacy
+- **Don't prioritize realization too soon; value is key**
+
+---
+
+## Solving Complex Business Challenges Using GenAI
+
+- **Enhance customer stickiness** with innovative engagement strategies.
+- **Boost customer service experience** by shortening response times through GenAI-powered support from agents and field teams.
+- **Speed development cycles**.
+- **Boost model performance** by leveraging natural language data.
+- **Enhance manufacturing efficiency** with improved quality control, enhancing performance and availability.
+- **Improve supply chain** from planning, procurement to order fulfillment.
+- **Enhance sales productivity and user onboarding** for quicker activations.
+
+---
+
+## Generative AI - Areas of Impact
+
+### Text-Based
+
+Boost customer support, marketing, insights, product development, and training with tailored content from sophisticated Large Language Models (LLMs).
+
+### Audio-Based
+
+Leverage speech synthesis for vocal content creation and analysis, enhancing IVR, text-to-speech, voice-guided training, and interactive bots.
+
+### Image-Based
+
+Revolutionize marketing, analytics, product design, 3D modeling, quality control, medical imaging, and virtual staging with Generative AI's visual innovation.
+
+### Video-Based
+
+Elevate storytelling, digital marketing, interactive simulations, video creation, editing, and deep fake technology with video-focused Generative AI.
+
+---
+
+## Turing GenAI Offerings
+
+1. **AI-Powered Code Generation**
+
+   Accelerate your development cycles with AI-driven code generation delivering accurate, maintainable, and scalable code tailored to your project requirements.
+
+2. **Automated Testing and Debugging**
+
+   Streamline quality assurance processes with our automated testing tools powered by generative AI, identifying and resolving bugs faster than ever before.
+
+3. **Predictive Analytics and Insights**
+
+   Use generative AI to predict trends, user behaviors, and system performances for proactive decisions and optimized applications in real-time.
+
+4. **Customized Enterprise LLMs**
+
+   Elevate enterprise capabilities with a bespoke large language model, enhanced through Retrieval Augmented Generation (RAG) and Supervised Fine-Tuning (SFT), for seamless integration with your workflows.
+
+5. **AI-Assisted Project Management**
+
+   Enhance project oversight with generative AI, providing actionable insights for resource allocation, timelines, and cost predictions to keep your project on track and within budget.
+
+6. **GenAI Talent as a Service (TaaS)**
+
+   Tap into our global network of vetted technical professionals for developers, data scientists, and more on demand.
+
+---
+
+## AI-Powered Code Generation
+
+### Speed Development Cycles
+
+#### Interactive Question Answering
+
+AI-driven code suggestions for your queries will reduce your development time significantly. This co-pilot can also help you in debugging.
+
+#### AI Co-Pilot for Codebase
+
+Trained on your codebase, this co-pilot specifically provides relevant answers to your queries.
+
+---
+
+## AI-Powered Code Generation Offerings
+
+- **Automated Testing**
+
+  Generates and executes test cases based on code analysis, improving test coverage and identifying potential issues early.
+
+- **Automated Code Review**
+
+  Leveraging GenAI to perform thorough code reviews, highlighting potential improvements and ensuring adherence to coding standards.
+
+- **Codebase Visualization**
+
+  Offers insightful visual representations of the code structure, making it easier to understand complex codebases and their dependencies.
+
+- **Real-Time Debugging and Error Correction**
+
+  Instant detection and correction of errors with explanations, fostering a seamless coding experience.
+
+- **Intelligent Documentation Generation**
+
+  Automatic creation and updating of documentation, keeping it synchronized with code changes and reducing manual effort.
+
+- **Adaptive Code Assistance**
+
+  AI-driven code suggestions that adapt to individual developer styles and project contexts, significantly reducing development time.
+
+---
+
+## Unlocking Productivity Gains with Turing
+
+### **33% Productivity Boost**
+
+Turing Co-Pilot enhances software development efficiency by 33%, as demonstrated in collaborative experiments with Gemini Code Assist and Google.
+
+### Achieving Significant Productivity Improvements Requires:
+
+- **Selecting the appropriate cloud platform and tools** that integrate seamlessly for user-friendliness.
+- **Training developers to adjust their coding habits** to maximize tool efficiency, such as pre-commenting code blocks for improved AI assistance.
+- **Customizing integrations within your codebase** to optimize the performance of AI-assisted coding tools.
+
+*— Thomas Kurian, CEO Google Cloud*
+
+---
+
+## Case Study: AI-Powered Coding Assistant
+
+**Company Name:** Agora  
+**Company HQ:** California  
+**Type:** Public; $60M in Revenue  
+**Industry:** Software Development
+
+### Then
+
+Client sought a custom coding assistant to boost development efficiency.
+
+### The Problem
+
+- Client provides tools for app developers.
+- Needed to enhance team productivity and understand existing codebase.
+
+### Now
+
+Turing delivered an AI assistant that accelerates code creation, feature integration, and validation for the engineering team.
+
+### The Solution
+
+**Development Process**
+
+- Curated dataset of code and documentation.
+- Fine-tuned an LLM on this dataset.
+- Used Retrieval Augmented Generation (RAG) for accessing current knowledge.
+
+**Key Features**
+
+- Deep insight into code structure and functionality.
+- Facilitates quick integration of new features with demo code snippets.
+- Offers code refinement guidance and test case generation.
+
+### The Result
+
+- Improved test case generation boosts software reliability and customer trust.
+- Updated knowledge and best practices accelerate new feature adoption, driving growth and satisfaction.
+
+---
+
+## Automated Testing and Debugging
+
+- **Automated Code Reviews**: Leveraging GenAI to perform thorough code reviews, highlighting potential improvements and ensuring adherence to coding standards.
+- **Real-Time Debugging and Error Correction**: Instant detection and correction of errors with explanations, fostering a seamless coding experience.
+- **Intelligent Documentation Generation**: Automatic creation and updating of documentation, keeping it synchronized with code changes and reducing manual effort.
+- **Automated Testing**: Generates and executes test cases based on code analysis, improving test coverage and identifying potential issues early.
+- **Codebase Visualization**: Offers insightful visual representations of the code structure, making it easier to understand complex codebases and their dependencies.
+
+This comprehensive process enhances test coverage by generating and executing test cases based on code analysis, identifying potential challenges early, and allowing a seamless and efficient coding experience.
+
+---
+
+## Predictive Analytics and Insights
+
+### Traditional ML Challenges
+
+- **Fresh Start Dilemma**: Traditional ML models know nothing in the beginning. Using them without training data isn't an option.
+- **Structured Data Limitation**: Struggles with unstructured data analysis, leading to a need for manually crafted features, which may leave out important information.
+- **Training Data Shortage**: Lack of ample positive class data challenges the development of robust classification/regression models.
+
+### GenAI Advantages
+
+- **Expertise Out-of-the-Box**: Generative AI models have built-in expert-level knowledge in various areas, providing a good head start.
+- **Feature Extraction for Unstructured Data**: Efficiently extracts valuable insights from unstructured data for decision-making with minimal manual effort.
+- **Enhanced Learning from Limited Data**: Strong initial classification and regression skills, improving quickly with minimal positive examples.
+
+**Generative AI heralds a new era for ML/NLP**, overcoming traditional limits with unmatched adaptability, rapid learning, and proficiency in complex data analysis.
+
+---
+
+## Case Study: Accurate Personalized Results Using State-of-the-Art LLM Algorithms
+
+**Company HQ:** California  
+**Type:** Private; $100M in Revenue  
+**Industry:** AI Services
+
+### Then
+
+Low accuracy machine learning model using traditional ML techniques.
+
+### The Problem
+
+Improve accuracy of recommending developers to jobs. Higher accuracy of the ML system reduces manual effort needed by our internal recruiters.
+
+### Now
+
+Highly accurate predictions matching the right developer to the right job.
+
+### The Solution
+
+By analyzing multiple data sources—MCQs, coding tests, resumes, past interviews, GitHub portfolios, LinkedIn profiles, and delivered projects—we effectively match developers with job descriptions and skill requirements, ensuring the ideal developers for each role.
+
+### The Result
+
+- **Increased Match Rate**: Saw a 25% improvement in job fulfillment rate through better developer recommendations and reduced turnaround times.
+- **Improved Accuracy**: Our in-house models augmented with a GPT-based ranking system boosted accuracy from 25% to 76%. Using advanced techniques like supervised fine-tuning and DPO, we further improved accuracy by 7-10%.
+- **Improved Workforce Efficiency**: Our vetting workforce now spends 30% less time manually validating our ranking model’s developer recommendations.
